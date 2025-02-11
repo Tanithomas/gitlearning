@@ -1,2 +1,5 @@
 print("hello")
 print("Hai")
+
+command for listing
+>git remote -v
